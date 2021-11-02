@@ -1,7 +1,3 @@
-# Lab 6
+# Lab 6 -> Basic Search Bar Implementation
 
-Cole Rindal
-
-Everett Lin
-
-[Lab 6](https://cole-rindal.github.io/Lab6_Starter/)
+[SearchBar](https://cole-rindal.github.io/SearchBar/)
